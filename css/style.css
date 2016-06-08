@@ -2101,6 +2101,12 @@ pre .css ~ * .id {
 .tagcloud a.color5:before {
   border-right-color: #7b5d5f;
 }
+.tagcloud a.color6 {
+  background: #333333;
+}
+.tagcloud a.color6:before {
+  border-right-color: #333333;
+}
 .article-tag-list .article-tag-list-item {
   float: left;
 }
